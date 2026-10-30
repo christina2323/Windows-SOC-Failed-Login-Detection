@@ -142,6 +142,10 @@ This project was developed for educational purposes using security logs from my 
 
 ![SOC Failed Login Detection](SOC-Failed-Login-Detection.png)
 
+### Windows Security Event – 4625
+
+![Windows Security Event 4625](Event-4625-Failed-Login.png)
+
 ### Investigation Report
 
 [View Failed Login Investigation Report](Investigation-Report.md)
