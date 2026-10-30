@@ -141,3 +141,7 @@ This project was developed for educational purposes using security logs from my 
 ### Failed Login Detection – PowerShell Output
 
 ![SOC Failed Login Detection](SOC-Failed-Login-Detection.png)
+
+### Investigation Report
+
+[View Failed Login Investigation Report](Investigation-Report.md)
