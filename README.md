@@ -136,3 +136,8 @@ SOC-Project/
 
 This project was developed for educational purposes using security logs from my own Windows computer. Detection results are preliminary indicators and should be investigated before classifying activity as malicious.
 
+## Project Evidence
+
+### Failed Login Detection – PowerShell Output
+
+![SOC Failed Login Detection](SOC-Failed-Login-Detection.png)
