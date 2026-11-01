@@ -1,3 +1,5 @@
+![PowerShell Script Check](https://github.com/christina2323/Windows-SOC-Failed-Login-Detection/actions/workflows/powershell-check.yml/badge.svg)
+
 ## **Windows SOC – Security Log Monitoring and Failed Login Detection**
 
 
